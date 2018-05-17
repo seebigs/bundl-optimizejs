@@ -1,0 +1,24 @@
+{
+  "name": "bundl-optimizejs",
+  "version": "1.0.0",
+  "description": "Optimize JS for faster initial load",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seebigs/bundl-optimizejs.git"
+  },
+  "author": "Chris Bigelow <seebigswork@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/seebigs/bundl-optimizejs/issues"
+  },
+  "dependencies": {
+    "optimize-js": "^1.0.3"
+  },
+  "devDependencies": {
+    "feather-test": "^4.0.0"
+  }
+}
