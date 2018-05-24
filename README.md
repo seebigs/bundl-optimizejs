@@ -1,6 +1,6 @@
 # bundl-optimizejs
 
-*Use OptimizeJS on your bundles for faster runtime execution*
+*Use [OptimizeJS](https://github.com/nolanlawson/optimize-js) on your bundles for faster runtime execution*
 
 *Runs with the amazing [Bundl](https://github.com/seebigs/bundl) build tool*
 
